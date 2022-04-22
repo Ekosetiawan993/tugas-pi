@@ -1,0 +1,5 @@
+1. test size 25% yang terbaik.
+2. di paper bakal membandingkan hasil rmse berbagai algoritma.
+3. bakal mencoba regular, lasso, ridge, xgboost
+
+4. Temuan terbaik adalah semua fitur
