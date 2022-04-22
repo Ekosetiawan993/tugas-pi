@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 abalone.data
 abalone.names
-first_rand_forest.sav
+output_model
+data
